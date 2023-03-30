@@ -1,0 +1,22 @@
+Abdlmu'tii Customizable License (ACL) (2023)
+
+This license is designed to allow people to view, learn from and modify the original work, with some restrictions to protect the owner's rights. The owner of the original work can modify the restrictions below, but forks of the original work can only modify the restrictions if they are done so by the same person/company.
+
+Allowed
+- View and learn from the code
+- Modify the code for personal use and give credit to the original work
+- Contribute to the original work and help fix issues
+
+Disallowed
+- Publishing the code as your own such as providing tutorials on creating similar apps using the source code without permission. another case can be publishing it to your resumé/portfolio without being part of working in it.
+- Using the code for commercial purposes or monetary gain without permission. If this happens, the person must pay half of the profits made to the original work.
+- Intend to use the code maliciously, such as modifying the code to be harmful to users. In such cases, the person using the modified code shall be responsible for the damages caused to the users.
+- No credit given to the original work
+- Usage with a different license or using the same license without the same restrictions
+
+Additional notes
+- Only the owner of the original work can bypass these restrictions, and they may choose people to bypass the license at their discretion.
+- The ACL license is no longer active when the original owner of the work passes away and the project becomes non-maintained, or is deprecated. This applies to a company that has not worked on the project for at least two years or has announced that they will be shutting down the project permanently. There is no need to change the license after the project ends.
+
+**Disclaimer**
+This license is provided as-it-is and without any warranty. The original owner of the code or other individuals associated with the project or the owner of the license are not liable for any damages or legal issues resulting from the use of the code under this license.
